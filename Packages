@@ -1,13 +1,13 @@
-Package: com.site.tweakname
-Version: 1.0.0
+Package: com.PinchSoft.InAppDownloader
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: YourName <YourEmail>
-Filename: /TweakName.deb
-Size: (size without ,'s')
-MD5sum: xxxxxxxxxxxx
-SHA1: xxxxxxxxxxxx
-SHA256: xxxxxxxxxxxx
-Section: (Folder Name)
-Description: (What Is This Tweak)
-Author: (Tweak Owner) (Email)
-Name: (NameHere)
+Maintainer: Pinch Soft
+Filename: /InAppDownloader.deb
+Size: 70246
+MD5sum: C0FDCF2869D44FA70DDC6CA855B2E78C
+SHA1: CA1C0FA0F46E4C0CF9512921E8950CC7B402D63E
+SHA256: 7D130F194F39FCCBC0141E376C7D6EB452072A899362A7C1EBFC5FA1DB4C9A66
+Section: Tweaks
+Description: Local In App Purchases ;)
+Author: Pinch Soft
+Name: InApp Downloader
